@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/megopher
+megopher.so
+megopher.dylib
+megopher.dll
+megopher.a
+megopher.lib
+megopher-test-*
+*.exe
+*.o
+*.obj
+*.lst
